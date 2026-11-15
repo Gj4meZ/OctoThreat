@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: OctoThreat |cff00ff00[1.12.1 WotLK Threat Tab & Debuff Timer]|r
+## Notes: WotLK-style Beveled Threat Tab (ALT+Click Drag) + Plater-Style Target Debuff Timers (OmniCC Blocked).
+## Author: OctoThreat
+## Version: 4.2
+## OptionalDeps: KLHThreatMeter
+## SavedVariablesPerCharacter: OctoThreatDB
+
+OctoThreat.lua
